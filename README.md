@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -
 - 👯 I’m looking to collaborate on ...-->
 
-## Skills 🪄
-# Programming Languages
+# Skills 🪄
+## Programming Languages
 - Java
 - Python
 - C / C++
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - CSS
 - JavaScript
 
-# Tools
+## Tools
 - Git
 - MS Word
 - MS Excel
