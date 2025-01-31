@@ -1,5 +1,4 @@
-## Hi there 👋
-## This is Vimalraj Veeraiyan 
+## Hi there 👋, this is Vimalraj Veeraiyan 
 
 <!--
 **Vimalraj-Veeraiyan/Vimalraj-Veeraiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
