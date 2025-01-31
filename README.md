@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -
 - 👯 I’m looking to collaborate on ...-->
 
-## Skills 🪄
+### Skills 🪄
+## Programming Languages
 - Java
 - Python
 - C / C++
 - HTML
 - CSS
 - JavaScript
+
+## Tools
+- Git
+- MS Word
+- MS Excel
+- MS Powerpoint
+- Adobe Photoshop
